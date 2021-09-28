@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  blender:
+    build: .
+    restart: "no"
+    volumes: 
+      - ".:/app"
+    #command: ["apt-get", "update"]
+    #command: ["apt-get", "install", "python3-pip", "-y"]
+    #command: ["pip", "install","Pillow"]
+    command: ["python3", "app/doitall.py" ]
+
+
+
+
+

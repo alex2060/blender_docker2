@@ -1,0 +1,5 @@
+number_of_interations,34
+steep_rate,6
+offset,2.7
+frames,136
+endframe,210

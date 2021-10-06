@@ -1,0 +1,5 @@
+FROM docker.io/blendergrid/blender:2.79.0
+RUN apt-get update
+RUN apt-get install python3-pip -y
+RUN pip install image
+RUN pip install Pillow

@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  blender:
+    build: .
+    restart: "no"
+    volumes: 
+      - ".:/app"
+    command: ["python3","-u" ,"app/doitall.py" ]
+
+
+
+
+

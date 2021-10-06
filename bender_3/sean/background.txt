@@ -1,0 +1,12 @@
+l,background,-12.0,2,-12,1
+l,background,-17.0,-14,-26,128
+l,background,-29.3726,3.75896,-25.999,153
+l,background,-28.6119,38.6371,-27.7232,255
+l,background,-11,10,-8,537
+a,background,0,0,0,1
+a,background,0,0,0,0
+a,background,0,-0.523599,0,128
+a,background,0,-0.4010504822,0,153
+a,background,0,-0.09687258027,0,195
+a,background,0,0,-0.523599,537
+sc,background,20,5,23,1
